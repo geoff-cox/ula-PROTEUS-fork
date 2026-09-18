@@ -38,6 +38,7 @@
     </point>
   </coordinates>
 
+  <!--
   <annotations text="Two vectors and some linear combinations formed from them">
     <annotation ref="axes"
                 text="A standard set of axes"/>
@@ -61,5 +62,6 @@
       <annotation ref="e"
                   text="The linear combination labeled e"/>
     </annotation>
-  </annotations>
+    </annotations>
+  -->
 </diagram>
